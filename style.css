@@ -1,0 +1,72 @@
+/*------#005EF9  azul oscuro
+--------#74A5F6  azul claro
+--------#D9E5F7  azul_blanco
+--------#885EC8  morado pastel
+--------#9F89B6 morado_balnco
+*/
+.centro{
+    text-align: center;
+}
+.caja1{
+background-color: #D9E5F7;
+width: 73.2px;
+height: 70px;
+display: inline-block;
+}
+.caja2{
+background-color: #74A5F6;
+width: 73.2px;
+height: 70px;
+display: inline-block;
+}
+
+.caja3{
+background-color: #005EF9;
+width: 73.2px;
+height: 70px;
+display: inline-block;
+}
+
+.caja4{
+    background-color: #9F89B6;
+    width: 49.8%;
+    height: 200px;
+    display: inline-block;
+}
+
+.caja5{
+    background-color: #885EC8;
+    width: 49.7%;
+    height: 200px;
+    display: inline-block;
+}
+.caja6{
+    background-color: #9F89B6;
+    width: 40%;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+}
+.caja7{
+    background-color: #885EC8;
+    width: 40%;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+}
+.caja8{
+    background-color: #697AF9;
+    width: 73.2px;
+    height: 70px;
+    position: relative;
+    margin-top: 130px;
+    
+}
+.caja9{
+    background-color: #697AF9;
+    width: 73.2px;
+    height: 70px;
+    position: relative;
+    margin-left: 86.8%;
+    margin-top: 130px;
+}
